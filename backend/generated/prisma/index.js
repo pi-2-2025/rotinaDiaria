@@ -116,7 +116,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\Murilo\\Desktop\\rotinaDiaria-main\\backend\\generated\\prisma",
+      "value": "C:\\rotinaDiaria-main\\backend\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -130,11 +130,11 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\Murilo\\Desktop\\rotinaDiaria-main\\backend\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\rotinaDiaria-main\\backend\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": "../../.env",
+    "rootEnvPath": null,
     "schemaEnvPath": "../../.env"
   },
   "relativePath": "../../prisma",
