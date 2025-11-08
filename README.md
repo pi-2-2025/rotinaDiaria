@@ -3,7 +3,7 @@
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seu-usuario/rotina-diaria)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue)](LICENSE)
 
-Aplicação web para ajudar principalmente crianças a organizarem suas rotinas diárias de forma lúdica e educativa. Foi pensada para a Clarinha e transforma tarefas cotidianas em uma experiência divertida com feedback visual e “coins” por tarefas concluídas.
+Aplicação web para ajudar principalmente crianças a organizarem suas rotinas diárias de forma lúdica e educativa. Foi pensada para transformar tarefas cotidianas em uma experiência divertida com feedback visual e “coins” por tarefas concluídas.
 
 ## 🎯 Objetivo
 
