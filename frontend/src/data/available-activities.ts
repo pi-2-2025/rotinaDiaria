@@ -17,6 +17,7 @@ const availableActivities: Activity[] = [
     { name: 'Lição de Casa', icon: '✏️', color: '#10B981', category: 'Educação', description: 'Fazer tarefas escolares', imageSrc: 'licao-de-casa.jpeg' },
     { name: 'Ler Livro', icon: '📚', color: '#8B5CF6', category: 'Educação', description: 'Ler por pelo menos 15 minutos', imageSrc: 'ler.jpeg' },
     { name: 'Estudar', icon: '📖', color: '#6366F1', category: 'Educação', description: 'Tempo de estudo', imageSrc: 'estudar.jpeg' },
+    { name: 'Escola', icon: '📖', color: '#48d9ecff', category: 'Educação', description: 'Hora de aprender mais', imageSrc: 'escola.jpeg' },
     
     // Lazer
     { name: 'Brincar', icon: '🎮', color: '#EC4899', category: 'Lazer', description: 'Tempo livre para brincar', imageSrc: 'brincar.jpeg' },
